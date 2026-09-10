@@ -5,7 +5,9 @@
 This portfolio sample demonstrates research-based eBook writing focused on helping entrepreneurs understand the key principles of building and managing a sustainable small business.
 
 The eBook presents business concepts in a clear, practical, and reader-friendly format, making complex ideas easier to understand and apply.
+
 [📖 View the eBook PDF](./The-Smart-Entrepreneurs-Guide.pdf)
+
 ## Chapters
 
 1. Understanding Your Business Idea
